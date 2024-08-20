@@ -1,39 +1,17 @@
 ---
 home: true
+heroImage: /logo.png
+heroAlt: Logo image
+heroText: Hero Title
+tagline: Hero subtitle
+actionText: Get Started
+actionLink: /guide/
+features:
+  - title: Simplicity First
+    details: Minimal setup with markdown-centered project structure helps you focus on writing.
+  - title: Vue-Powered
+    details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+  - title: Performant
+    details: VitePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+footer: MIT Licensed | Copyright © 2019-present Evan You
 ---
-
-![Gut Microbiome](/background1.jpeg#pic_center)
-
-
-**立足前沿生物信息学及人工智能技术解读人体微生物组对宿主健康的影响，旨在实现人类疾病的精准化诊疗。**
-
-### 研究内容
-
-
-::: info 微生物组信息学与人体健康
-理解微生物群在人体健康疾病中的作用，通过LLM协同的文献文本挖掘及微生物组学数据分析，构建肠-免疫轴，肠-脑轴等相关疾病的菌群-宿主互作**知识图谱数据库及智能问答系统**。
-:::
-
-
-::: warning 开发调整菌群的方案以维持人体健康
-构建**饮食-菌群-宿主代谢互作模型**，发展基于菌群代谢模型及微生物组数据，进行疾病标志物识别和饮食调理方案推荐的生物信息学方法。
-:::
-
-::: tip 构建疾病预测模型及Web app
-利用机器学习等方法构建肠-免疫轴，肠-脑轴等相关**疾病的诊断预警模型**。
-:::
-![Lab mission](/balance-fba1.png#pic_center)
-
-
-### 科研项目
-
-|项目编号 	|项目名称 	|项目分类 	|项目经费（万）| 	起止日期| 
-|-----:|:---------|-----:|:---------|:---------|
-|申请中...|基于宿主-肠道菌群共代谢模型的抑郁症代谢失衡表征与个性化饮食推荐|国家自然科学基金|---|---|
-|62102065	|个体化肠道菌群代谢网络的建模方法研究及应用|国家自然科学基金|30.0	|2021.10-2024.12|
-|2022J05055	|基于肠道微生物组的个体化aGVHD早期风险预警以及代谢网络标志物识别的方法研发|省科技厅项目	|	4.0|2022.8-2025.8|
-|XRCZX2022003	|菌群相关复杂疾病的建模预测及机制研究|校科技处|50.0	|	2022.4-2026.9|
-|J22016	|基于Jupyter Notebook的项目式学习在《Python语言程序设计》课程中的应用研究|福建医科大学教育教学改革研究项目|1.0	|2022.10 - 2023.8| 
-
-<br>
-<br>
